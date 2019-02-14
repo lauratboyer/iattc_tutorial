@@ -4,6 +4,6 @@ navbar:
   title: "Laura's Website"
   left:
     - text: "Home"
-      href: Web1.html
+      href: index.html
     - text: "Fish things"
       href: Web1.html

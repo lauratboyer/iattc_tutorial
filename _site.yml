@@ -1,5 +1,6 @@
 name: "lauras-website"
 output_dir: "."
+theme: cosmo
 navbar:
   title: "Laura's Website"
   left:

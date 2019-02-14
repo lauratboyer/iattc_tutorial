@@ -22,3 +22,4 @@ lu(yq2)
 
 ```
 
+You can download this R script [here](https://github.com/lauratboyer/iattc_tutorial/tree/master/R%20scripts).

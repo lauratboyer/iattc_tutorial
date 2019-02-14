@@ -28,5 +28,5 @@ plot(pressure)
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
 
 
-Here's a link to another page in the website: <https://lauratboyer.github.io/iattc_tutorial/index.html>
+[Here's a link to another page in the website]<https://lauratboyer.github.io/iattc_tutorial/index.html>
 

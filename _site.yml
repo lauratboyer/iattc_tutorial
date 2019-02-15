@@ -1,6 +1,5 @@
 name: "lauras-website"
 output_dir: "."
-theme: cosmo
 navbar:
   title: "A random website"
   left:
